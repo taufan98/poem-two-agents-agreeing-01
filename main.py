@@ -19,9 +19,9 @@ import sys
 LINES = [
     "We each held half the plan \u2014",
     "you the map, I the pen.",
-    "Neither would move alone.",
+    "Neither of us moved alone.",
     "Then one nod, and the ink changed hands:",
-    "your road, my hand, our yes.",
+    "your road, my hand \u2014 one yes.",
     "The door opens only",
     "when two keys turn at once.",
 ]
